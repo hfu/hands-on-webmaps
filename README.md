@@ -6,6 +6,7 @@
 2. [GSI Maps Architecture](architecture.md)
 3. [避けるべきつまづき](obstacles.md)
 4. [ソーシャルコーディングとの関係](social_coding.md)
+5. [ウェブ地図のレンダリングにおける操作型と宣言型](imperative_declarative.md)
 
 ## 暫定プログラム
 ハンズオン課題は「大規模オンラインデータの組み合わせを用いた、興味に応じたビジュアル表現」が好適なのではないかと考える。
